@@ -2,7 +2,7 @@ class ChatBot {
     constructor() {
         // Hugging Face API - Truly free, no credit card required
         // Get free API key from: https://huggingface.co/settings/tokens
-        this.apiKey = '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';
+        this.apiKey = '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';
         this.apiEndpoint = 'https://api-inference.huggingface.co/models/microsoft/DialoGPT-large';
         this.messages = [];
         
